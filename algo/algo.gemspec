@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors = ["April Li"]
   spec.email = ["greatday4april@gmail.com"]
 
-  spec.summary = "TODO: Write a short summary, because RubyGems requires one."
-  spec.description = "TODO: Write a longer description or delete this line."
+  spec.summary = "self explanatory"
+  spec.description = "self explanatory"
   spec.homepage = "https://github.com/greatday4april/algorithm-templates"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
