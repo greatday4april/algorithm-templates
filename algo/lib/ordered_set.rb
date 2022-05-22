@@ -2,6 +2,7 @@
 
 
 class OrderedSet
+  include Algo
   def initialize
     @hash = {}
   end
