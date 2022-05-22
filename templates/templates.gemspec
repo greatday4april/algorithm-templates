@@ -4,7 +4,7 @@ require_relative "lib/templates/version"
 
 Gem::Specification.new do |spec|
   spec.name = "templates"
-  spec.version = Templates::VERSION
+  spec.version = 0.1
   spec.authors = ["April Li"]
   spec.email = ["greatday4april@gmail.com"]
 
