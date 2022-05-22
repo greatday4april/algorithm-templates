@@ -3,7 +3,7 @@
 require_relative "lib/algo/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "templates"
+  spec.name = "algo"
   spec.version = 0.1
   spec.authors = ["April Li"]
   spec.email = ["greatday4april@gmail.com"]
